@@ -26,7 +26,17 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-<summary>## 🖥️ **Microsoft Resources** <a name="microsoft-resources"></a> </summary>
+## 🖥️ **Microsoft Resources** <a name="microsoft-resources"></a>
+
+
+1. **Microsoft Office**: To get Word, PowerPoint, Excel, and all other useful Microsoft Resources,
+    - **Username**: BITS email-ID
+    - **Password**: Wi-Fi Username
+2. **[Microsoft Learn](https://learn.microsoft.com/)**
+3. **[Microsoft Imagine Cup](https://imaginecup.microsoft.com/en-us/Events)**
+4. **[Become a Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)**
+
+
 
 1. **Microsoft Office Suite (Word, PowerPoint, Excel, etc.)**
    - **Username:** BITS email-ID
@@ -49,13 +59,13 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 1. **[Uni Notes](https://www.akshansh.net/notes.html)**
    - Comprehensive study materials for various subjects. An open-source initiative by dedicated authors.
 
-2. **Dr. Shazia’s Classroom - Microprocessors**
+2. **[Dr. Shazia’s Classroom](https://www.youtube.com/@DrShaziasClassroom) - Microprocessors**
    - Detailed lectures and notes on Microprocessors.
 
-3. **Jagadish Nayak - Microprocessors and Digital Design**
+3. **[Jagadish Nayak](https://www.youtube.com/@jagadishnayak901) - Microprocessors and Digital Design**
    - In-depth resources on Digital Design and Microprocessors.
 
-4. **Dr. Priti Bajpai - Math 1 and 2**
+4. **[Dr. Priti Bajpai](https://www.youtube.com/@drpriti30/featured) - Math 1 and 2**
    - Extensive materials covering Mathematics 1 and 2.
 
 *Note: These resources may not cover all course topics but are excellent for reference and practicing key concepts.*
