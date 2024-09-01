@@ -1,4 +1,4 @@
-# 📚 **Coursework Resources and Links**
+<!-- # 📚 **Coursework Resources and Links**
 
 Welcome to your comprehensive guide to essential resources curated for your coursework. Whether you're diving into programming, mathematics, web development, Android development, or data science, this sheet has got you covered. Explore the sections below to find the tools and materials you need to excel in your studies!
 
@@ -329,3 +329,4 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 Happy Learning! 🚀
 
+-->
