@@ -330,3 +330,131 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 Happy Learning! 🚀
 
 -->
+# **Helpful Resources and Links for Your Coursework**
+
+## **Microsoft Resources**
+- **Microsoft 365 (Word, PowerPoint, Excel, etc.)**
+  - **Username:** BITS email-ID  
+  - **Password:** Wi-Fi Username
+- [Microsoft Learn](https://learn.microsoft.com)
+- [Microsoft Imagine Cup](https://imaginecup.microsoft.com)
+- [Become a Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)
+
+## **Curated by BITS Students, Teachers, and Alumni**
+
+- **[Uni Notes](https://www.akshansh.net/notes.html)**: Open-source study materials for various subjects.
+- **Dr. Shazia’s Classroom** - Microprocessors
+- **Jagadish Nayak** - Microprocessors and Digital Design
+- **Dr. Priti Bajpai** - Math 1 and 2
+
+## **General Programming and Practice**
+- [GeeksforGeeks](https://www.geeksforgeeks.org) - Tutorials and problems on programming, data structures, and algorithms.
+- [HackerRank](https://www.hackerrank.com) - Coding challenges and competitions.
+- [LeetCode](https://www.leetcode.com) - Coding problems and technical interview prep.
+
+## **Mathematics**
+- [Khan Academy](https://www.khanacademy.org) - Discrete Math, Calculus, and Linear Algebra.
+- [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) - Free mathematics courses and lecture notes.
+
+## **Data Structures and Algorithms**
+- [Coursera's "Algorithms" by Princeton](https://www.coursera.org/learn/algorithms-part1)
+- [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures)
+
+## **Advanced Programming**
+- [Learn C++](https://www.learn-cpp.org)
+- [Python.org](https://www.python.org) - Official Python documentation and tutorials.
+
+## **Computer Architecture and Organization**
+- **"Computer Organization and Design"** - A classic textbook on computer architecture.
+- [Nand2Tetris](https://www.nand2tetris.org) - Build a computer from scratch!
+
+## **Database Management Systems (DBMS)**
+- [W3Schools - SQL Tutorial](https://www.w3schools.com/sql)
+
+## **Operating Systems**
+- [Coursera's "Operating Systems" by Stanford](https://www.coursera.org/learn/operating-systems)
+
+## **Software Engineering**
+- **Design Patterns: Gang of Four** - Reference for design patterns.
+
+## **Computer Networks**
+- [Coursera's "Computer Networks" by University of Washington](https://www.coursera.org/specializations/computer-networks)
+
+## **Machine Learning and Artificial Intelligence**
+- [Coursera's "Machine Learning" by Stanford](https://www.coursera.org/learn/machine-learning)
+- [fast.ai](https://www.fast.ai) - Practical deep learning courses.
+
+## **Competitive Programming**
+- [Codeforces](https://codeforces.com)
+- [AtCoder](https://atcoder.jp)
+
+---
+
+## **YouTube Channels for Various Topics**
+- **Programming**: [Jenny's Lectures CS/IT](https://www.youtube.com/channel/UCx54QO3QyzifkrFnmFlJEOA), [Abdul Bari](https://www.youtube.com/user/abdulbarikcs), [Gate Smashers](https://www.youtube.com/c/GateSmasher)
+- **Web Development**: [The Net Ninja](https://www.youtube.com/c/TheNetNinja), [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- **Android Development**: [CodeWithChris](https://www.youtube.com/user/CodeWithChris), [Coding in Flow](https://www.youtube.com/c/codinginflow)
+- **Data Science/AI/ML**: [3Blue1Brown](https://www.youtube.com/c/3blue1brown), [sentdex](https://www.youtube.com/c/sentdex)
+
+---
+
+## **Full Stack Web Development**
+
+### **Documentation**
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+### **Online Courses**
+- [Coursera - Full Stack Web Development Specialization](https://www.coursera.org/specializations/full-stack)
+- [edX - Full Stack Web Developer](https://www.edx.org/professional-certificate/full-stack-developer)
+- [Udacity - Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044)
+
+### **Online Platforms**
+- [FreeCodeCamp](https://www.freecodecamp.org)
+- [Codecademy](https://www.codecademy.com)
+
+### **Books**
+- **"JavaScript: The Good Parts"** by Douglas Crockford
+- **"Eloquent JavaScript"** by Marijn Haverbeke
+- **"Node.js Design Patterns"** by Mario Casciaro
+
+---
+
+## **Android Development**
+
+### **Online Courses**
+- [Udacity - Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree--nd801)
+- [Coursera - Android App Development Specialization](https://www.coursera.org/specializations/android-app-development)
+- [Google's Android Developer Training](https://developer.android.com/courses)
+
+### **Books**
+- **"Head First Android Development"** by Dawn Griffiths and David Griffiths
+- **"Android Programming: The Big Nerd Ranch Guide"** by Bill Phillips and Chris Stewart
+
+### **Android Studio**
+- [Android Studio](https://developer.android.com/studio)
+
+---
+
+## **Data Science, AI, and ML**
+
+### **Online Courses**
+- [Coursera - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [Coursera - Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [edX - Microsoft Data Science Program](https://www.edx.org/professional-certificate/microsoft-data-science)
+- [Udacity - AI Programming with Python Nanodegree](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
+
+### **Books**
+- **"Python Machine Learning"** by Sebastian Raschka and Vahid Mirjalili
+- **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"** by Aurélien Géron
+
+### **Platforms**
+- [Kaggle](https://www.kaggle.com)
+- [DataCamp](https://www.datacamp.com)
+
+### **Documentation**
+- [TensorFlow](https://www.tensorflow.org)
+- [PyTorch](https://pytorch.org)
+
+---
+
+Explore and learn through these curated resources for your success!
