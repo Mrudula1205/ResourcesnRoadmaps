@@ -26,7 +26,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 🖥️ **Microsoft Resources**
+## 🖥️ **Microsoft Resources** <a name="microsoft-resources"></a>
 
 1. **Microsoft Office Suite (Word, PowerPoint, Excel, etc.)**
    - **Username:** BITS email-ID
@@ -44,7 +44,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 🎓 **Curated by BITS Students, Teachers, and Alumni**
+## 🎓 **Curated by BITS Students, Teachers, and Alumni** <a name="curated-by-bits-students-teachers-and-alumni"></a>
 
 1. **[Uni Notes](https://www.akshansh.net/notes.html)**
    - Comprehensive study materials for various subjects. An open-source initiative by dedicated authors.
@@ -62,7 +62,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 💻 **Programming Basics and Practice**
+## 💻 **Programming Basics and Practice** <a name="programming-basics-and-practice"></a>
 
 ### a) [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - Tutorials and practice problems on a wide range of computer science topics.
@@ -75,7 +75,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 📐 **Mathematics**
+## 📐 **Mathematics** <a name="mathematics"></a>
 
 ### a) [Khan Academy](https://www.khanacademy.org/)
 - Free lessons on topics including discrete mathematics, calculus, and linear algebra.
@@ -85,7 +85,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 🗂️ **Data Structures and Algorithms**
+## 🗂️ **Data Structures and Algorithms** <a name="data-structures-and-algorithms"></a>
 
 ### a) [Coursera: Algorithms by Princeton University](https://www.coursera.org/learn/algorithms-part1)
 - A comprehensive online course on algorithms.
@@ -95,7 +95,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 🚀 **Advanced Programming**
+## 🚀 **Advanced Programming** <a name="advanced-programming"></a>
 
 ### a) [Learn C++](https://www.learncpp.com/)
 - An interactive tutorial for learning C++.
@@ -105,7 +105,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 🖥️ **Computer Architecture and Organization**
+## 🖥️ **Computer Architecture and Organization** <a name="computer-architecture-and-organization"></a>
 
 ### a) **Book:** *Computer Organization and Design* by [Author Name]
 - A classic textbook on computer organization and design.
@@ -115,35 +115,35 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 🗄️ **Database Management Systems (DBMS)**
+## 🗄️ **Database Management Systems (DBMS)**  <a name="database-management-systems-dbms"></a>
 
 ### a) [W3Schools - SQL Tutorial](https://www.w3schools.com/sql/)
 - Comprehensive SQL tutorial for beginners and advanced users.
 
 ---
 
-## 🖧 **Operating Systems**
+## 🖧 **Operating Systems** <a name="operating-systems"></a>
 
 ### a) [Coursera: Operating Systems by Stanford University](https://www.coursera.org/learn/os)
 - An online course covering fundamental concepts of operating systems.
 
 ---
 
-## 🛠️ **Software Engineering**
+## 🛠️ **Software Engineering** <a name="software-engineering"></a>
 
 ### a) [Design Patterns - Gang of Four](https://refactoring.guru/design-patterns)
 - Information about the classic book on design patterns and their implementations.
 
 ---
 
-## 🌐 **Computer Networks**
+## 🌐 **Computer Networks** <a name="computer-networks"></a>
 
 ### a) [Coursera: Computer Networks by University of Washington](https://www.coursera.org/specializations/computer-networks)
 - A specialization covering various aspects of computer networks.
 
 ---
 
-## 🤖 **Machine Learning and Artificial Intelligence**
+## 🤖 **Machine Learning and Artificial Intelligence** <a name="machine-learning-and-artificial-intelligence"></a>
 
 ### a) [Coursera: Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning)
 - An excellent introduction to machine learning concepts and algorithms.
@@ -153,7 +153,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 🏆 **General Coding Practice and Competitive Programming**
+## 🏆 **General Coding Practice and Competitive Programming** <a name="general-coding-practice-and-competitive-programming"></a>
 
 ### a) [Codeforces](https://codeforces.com/)
 - Competitive programming platform with coding contests and problems.
@@ -163,7 +163,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 📺 **YouTube Channels for Various Topics**
+## 📺 **YouTube Channels for Various Topics** <a name="youtube-channels-for-various-topics"></a>
 
 - [Jenny's Lectures CS IT](https://www.youtube.com/user/jenniferjlee)
 - [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
@@ -178,12 +178,12 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 🌐 **Full Stack Web Development**
+## 🌐 **Full Stack Web Development** <a name="full-stack-web-development"></a>
 
 ### 📄 **Documentation**
 - [MDN Web Docs](https://developer.mozilla.org/) - Mozilla's developer documentation for web technologies.
 
-### 📚 **Online Courses**
+### 📚 **Online Courses** 
 
 1. **[Coursera - Full Stack Web Development Specialization](https://www.coursera.org/specializations/full-stack-web-development)**
    - Comprehensive program covering front-end and back-end technologies.
@@ -223,7 +223,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 📱 **Android Development**
+## 📱 **Android Development** <a name="android-development"></a>
 
 ### 📚 **Online Courses**
 
@@ -266,7 +266,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 📊 **Data Science, AI, and ML**
+## 📊 **Data Science, AI, and ML** <a name="data-science-ai-and-ml"></a>
 
 ### 📚 **Online Courses**
 
