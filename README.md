@@ -26,7 +26,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ---
 
-## 🖥️ **Microsoft Resources** <a name="microsoft-resources"></a>
+<summary>## 🖥️ **Microsoft Resources** <a name="microsoft-resources"></a> </summary>
 
 1. **Microsoft Office Suite (Word, PowerPoint, Excel, etc.)**
    - **Username:** BITS email-ID
